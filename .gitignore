@@ -1,0 +1,3 @@
+media/*/video-src/
+node_modules/
+.DS_Store
